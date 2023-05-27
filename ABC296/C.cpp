@@ -28,7 +28,7 @@ int main()
         {
             pos++;
         }
-                       
+
         if(A[pos] - A[i] == X && pos < N)
         {
             printf("Yes\n");
